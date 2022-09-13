@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>cpp.png</file>
+        <file>csharp.png</file>
+        <file>java.png</file>
+        <file>javascript.png</file>
+        <file>php.png</file>
+        <file>prg.png</file>
+        <file>python.png</file>
+        <file>qrc.qrc</file>
+    </qresource>
+</RCC>
