@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img" lang="ru"/>
+    <qresource prefix="/">
+        <file>img/file.png</file>
+        <file>img/folder.png</file>
+        <file>img/folderup.png</file>
+        <file>img/iconlist.png</file>
+        <file>img/license.html</file>
+        <file>img/list.png</file>
+        <file>img/zip.png</file>
+        <file>img/center-align.png</file>
+        <file>img/left-align.png</file>
+        <file>img/right-align.png</file>
+        <file>img/text-font.png</file>
+        <file>img/pasteStyle.png</file>
+        <file>img/copyStyle.png</file>
+        <file>img/search.png</file>
+    </qresource>
+</RCC>
